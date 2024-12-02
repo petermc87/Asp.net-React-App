@@ -76,3 +76,4 @@ C:\Users\Peter\OneDrive\Repos\api\WebApplication1\WebApplication1\obj\Debug\net8
 C:\Users\Peter\OneDrive\Repos\api\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Users\Peter\OneDrive\Repos\api\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\Peter\OneDrive\Repos\api\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\Peter\OneDrive\Repos\api\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
